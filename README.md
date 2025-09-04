@@ -8,7 +8,7 @@ All of them are based on dummy datasets created with OpenAI.
 With any questions feel free to reach out: sergei.erbin@gmail.com
 
 # Sales Report
-
+...
 # Employee Overview Report
 
 # SQL queries
