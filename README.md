@@ -35,7 +35,7 @@ The dashboard provides an overview of Year-to-Date (YTD) sales from different pe
 </p>
 
 ## More Dashboards  
-More dashboards are available in the **Power BI report file** here: [Power BI reports / sales report](rhttps://github.com/sergeierbin/portfolio/tree/89a4c06945ff5c9d53b438b7bcbba97ca3a8bcf9/Power%20BI%20reports/sales%20report)  
+More dashboards are available in the **Power BI report file** here: [Power BI reports / sales report](https://github.com/sergeierbin/portfolio/tree/89a4c06945ff5c9d53b438b7bcbba97ca3a8bcf9/Power%20BI%20reports/sales%20report)  
 
 
 # Employee Overview Report
