@@ -1,11 +1,11 @@
-# portfolio
-This repository has examples of PowerBI reports and SQL queries.
+# Portfolio
 
-# About the portfolio
-Here you can find some examples of Power BI reports and SQL queries I have created.
-All of them are based on dummy datasets created with OpenAI.
-
-With any questions feel free to reach out: sergei.erbin@gmail.com
+## About the portfolio
+1. Portfolio was created during the **Vali-IT Data Analytics 6-week bootcamp**: [vali-it.ee/andmetarkus](https://vali-it.ee/andmetarkus)  
+2. **Tech stack:** Power BI, SQL, Python, Jupyter Notebook  
+3. **Contacts:**  
+   - [LinkedIn Profile](https://www.linkedin.com/in/sergei-erbin/)  
+   - 📧 sergei.erbin@gmail.com  
 
 # Sales Report
 
