@@ -31,7 +31,7 @@ The dashboard provides an overview of Year-to-Date (YTD) sales from different pe
 3. **Product cost, price, and discount**  
 4. **Change in sales volume over time**  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_ytd_sales.png" width="600">
+  <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_profitability_by_products.png" width="600">
 </p>
 
 # Employee Overview Report
