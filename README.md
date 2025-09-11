@@ -9,6 +9,7 @@ With any questions feel free to reach out: sergei.erbin@gmail.com
 
 # Sales Report
 ...
+<img width="583" height="395" alt="image" src="[https://github.com/sergeierbin/portfolio/blob/main/Power%20BI%20reports/sales%20report/sales_report_data_model.png]" />
 # Employee Overview Report
 
 # SQL queries
