@@ -9,7 +9,10 @@ With any questions feel free to reach out: sergei.erbin@gmail.com
 
 # Sales Report
 ...
-<img width="583" height="395" alt="image" src="[[https://github.com/sergeierbin/portfolio/blob/main/Power%20BI%20reports/sales%20report/sales_report_data_model.png](https://github.com/sergeierbin/portfolio/blob/main/Power%20BI%20reports/sales%20report/sales_report_data_model.png?raw=true)]" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_data_model.png" width="600">
+</p>
+
 # Employee Overview Report
 
 # SQL queries
