@@ -5,7 +5,7 @@
 2. **Tech stack:** Power BI, Excel, SQL, PostgreSQL, DBeaver, Python, Jupyter Notebook, Visul Studio Code, Git, Github   
 3. **Contacts:**  
    - [LinkedIn Profile](https://www.linkedin.com/in/sergei-erbin/)  
-   - 📧 sergei.erbin@gmail.com  
+   - sergei.erbin@gmail.com  
 
 # Sales Report
 
@@ -33,6 +33,10 @@ The dashboard provides an overview of Year-to-Date (YTD) sales from different pe
 <p align="center">
   <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_profitability_by_products.png" width="600">
 </p>
+
+## More Dashboards  
+More dashboards are available in the **Power BI report file** here: [Power BI reports / sales report](rhttps://github.com/sergeierbin/portfolio/tree/89a4c06945ff5c9d53b438b7bcbba97ca3a8bcf9/Power%20BI%20reports/sales%20report)  
+
 
 # Employee Overview Report
 
