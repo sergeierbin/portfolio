@@ -8,7 +8,9 @@ All of them are based on dummy datasets created with OpenAI.
 With any questions feel free to reach out: sergei.erbin@gmail.com
 
 # Sales Report
-Data model for the Sales Report:
+
+## Data Model for Sales Report  
+1. The data is generated with **OpenAI**.  
 <p align="center">
   <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_data_model.png" width="600">
 </p>
@@ -19,7 +21,6 @@ The dashboard provides an overview of Year-to-Date (YTD) sales from different pe
 2. **YTD sales by year and by sales representatives**  
 3. **YTD sales by year and by product**  
 4. **YTD sales by year and by customer**
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_ytd_sales.png" width="600">
 </p>
