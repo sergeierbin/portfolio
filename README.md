@@ -2,7 +2,7 @@
 
 ## About the portfolio
 1. Portfolio was created during the **Vali-IT Data Analytics 6-week bootcamp**: [vali-it.ee/andmetarkus](https://vali-it.ee/andmetarkus)  
-2. **Tech stack:** Power BI, SQL, Python, Jupyter Notebook  
+2. **Tech stack:** Power BI, Excel, SQL, PostgreSQL, DBeaver, Python, Jupyter Notebook, Visul Studio Code, Git, Github   
 3. **Contacts:**  
    - [LinkedIn Profile](https://www.linkedin.com/in/sergei-erbin/)  
    - 📧 sergei.erbin@gmail.com  
