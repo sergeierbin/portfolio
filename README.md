@@ -55,7 +55,7 @@ Data: AI-generated dataset
 #### Data Model
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/sergeierbin/portfolio/blob/main/power_bi/hr_report/data_model.png" width="600">
 </p>
 
 #### Active Employees Dashboard
@@ -63,7 +63,7 @@ Data: AI-generated dataset
 ...
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/sergeierbin/portfolio/blob/main/power_bi/hr_report/active_employees.png" width="600">
 </p>
 
 ####  ... Dashboard
@@ -71,11 +71,11 @@ Data: AI-generated dataset
 ...
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/sergeierbin/portfolio/blob/main/power_bi/hr_report/employee_satisfaction.png" width="600">
 </p>
 
 #### Full Employee Overview Report
 
-Explore the full Employee Overview Report in Power BI here: [power_bi/sales_report/sales_report.pbix]() 
+Explore the full Employee Overview Report in Power BI here: [power_bi/hr_report/hr_report.pbix](https://github.com/sergeierbin/portfolio/blob/main/power_bi/hr_report/hr_report.pbix) 
 
 ## SQL queries
