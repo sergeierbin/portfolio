@@ -60,16 +60,19 @@ Data: AI-generated dataset
 
 #### Active Employees Dashboard
 
-The dashboard provides an overview of the number of **active employees** within the selected period.  
-A **cross table** adds a department-level breakdown, allowing quick comparison across different units.  
+- The dashboard provides an overview of the number of **active employees** within the selected period.  
+- A **cross table** adds a department-level breakdown, allowing quick comparison across different units.  
 
 <p align="center">
   <img src="https://github.com/sergeierbin/portfolio/blob/main/power_bi/hr_report/active_employees.png" width="600">
 </p>
 
-####  ... Dashboard
+#### Employee Satisfaction Survey Results Dashboard
 
-...
+The dashboard summarizes the results of the **Employee Satisfaction Survey**:
+- Results are visualized by each question in clear graphs  
+- A **cross table** provides a detailed breakdown by question and response group  
+- The **participation rate** is also included in the cross table for reference 
 
 <p align="center">
   <img src="https://github.com/sergeierbin/portfolio/blob/main/power_bi/hr_report/employee_satisfaction.png" width="600">
