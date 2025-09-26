@@ -40,7 +40,7 @@ The dashboard provides an overview of **Year-to-Date (YTD) sales** from differen
 - Change in sales volume over time  
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_profitability_by_products.png" width="600">
+  <img src="https://github.com/sergeierbin/portfolio/blob/main/power_bi/sales_report/sales_report_profitability_by_products.png" width="600">
 </p>
 
 #### Full Sales Report
