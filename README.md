@@ -11,7 +11,7 @@
 
 ### Sales Report 
 
-Tech Stack: Microsoft Power BI
+Tech Stack: Microsoft Power BI<br>
 Data: AI-generated dataset
 
 #### Data Model
