@@ -82,4 +82,13 @@ The dashboard summarizes the results of the **Employee Satisfaction Survey**:
 
 Explore the full Employee Overview Report in Power BI here: [power_bi/hr_report/hr_report.pbix](https://github.com/sergeierbin/portfolio/blob/main/power_bi/hr_report/hr_report.pbix) 
 
-## SQL queries
+## Final Project: Electricity Consumption Forecast
+
+This project focused on forecasting electricity consumption by analyzing the **correlation between temperature and consumption**.  
+
+**Project steps:**  
+1. Built an initial prototype in **Excel** to validate the approach  
+2. Developed an automated solution in **Python** (scripts + Jupyter Notebook)  
+3. Created interactive **Power BI dashboards** for visualization  
+
+[Explore the final project here](https://github.com/martinoland1/Electricity-Consumption-Forecast)
