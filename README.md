@@ -49,4 +49,33 @@ Explore the full Sales Report in Power BI here: [power_bi/sales_report/sales_rep
 
 ### Employee Overview Report
 
-# SQL queries
+Tech Stack: Microsoft Power BI<br>
+Data: AI-generated dataset
+
+#### Data Model
+
+<p align="center">
+  <img src="" width="600">
+</p>
+
+#### Active Employees Dashboard
+
+...
+
+<p align="center">
+  <img src="" width="600">
+</p>
+
+####  ... Dashboard
+
+...
+
+<p align="center">
+  <img src="" width="600">
+</p>
+
+#### Full Employee Overview Report
+
+Explore the full Employee Overview Report in Power BI here: [power_bi/sales_report/sales_report.pbix]() 
+
+## SQL queries
