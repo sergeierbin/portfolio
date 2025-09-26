@@ -60,7 +60,8 @@ Data: AI-generated dataset
 
 #### Active Employees Dashboard
 
-...
+The dashboard provides an overview of the number of **active employees** within the selected period.  
+A **cross table** adds a department-level breakdown, allowing quick comparison across different units.  
 
 <p align="center">
   <img src="https://github.com/sergeierbin/portfolio/blob/main/power_bi/hr_report/active_employees.png" width="600">
