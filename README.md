@@ -36,7 +36,7 @@ The dashboard provides an overview of **Year-to-Date (YTD) sales** from differen
 
 - Sales amounts and profitability by products  
 - Sales amounts, costs, and profitability by products in a cross table  
-- Product cost, price, and discount  
+- Product cost, price, and discount in a cross table  
 - Change in sales volume over time  
  
 <p align="center">
