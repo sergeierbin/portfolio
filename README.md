@@ -7,37 +7,46 @@
    - [LinkedIn Profile](https://www.linkedin.com/in/sergei-erbin/)  
    - sergei.erbin@gmail.com  
 
-# Sales Report - Microsoft Power BI
+## Microsoft Power BI
 
-## Data Model for Sales Report  
-1. The data is generated with **OpenAI**.  
+### Sales Report 
+
+Tech Stack: Microsoft Power BI
+Data: AI-generated dataset
+
+#### Data Model
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_data_model.png" width="600">
 </p>
 
-## YTD Sales Dashboard
+#### YTD Sales Dashboard
+
 The dashboard provides an overview of Year-to-Date (YTD) sales from different perspectives:  
 1. **YTD sales across the years 2020–2025**  
 2. **YTD sales by year and by sales representatives**  
 3. **YTD sales by year and by product**  
 4. **YTD sales by year and by customer**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_ytd_sales.png" width="600">
 </p>
 
-## Profitability by Products  
+#### Profitability by Products  
+
 1. **Sales amounts and profitability by products**  
 2. **Sales amounts, costs, and profitability by products in a cross table**  
 3. **Product cost, price, and discount**  
 4. **Change in sales volume over time**  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_profitability_by_products.png" width="600">
 </p>
 
-## More Dashboards  
-More dashboards are available in the **Power BI report file** here: [Power BI reports / sales report](https://github.com/sergeierbin/portfolio/tree/89a4c06945ff5c9d53b438b7bcbba97ca3a8bcf9/Power%20BI%20reports/sales%20report)  
+#### Full Sales Report
 
+Explore the full Sales Report in Power BI here: [Power BI reports / sales report](https://github.com/sergeierbin/portfolio/tree/89a4c06945ff5c9d53b438b7bcbba97ca3a8bcf9/Power%20BI%20reports/sales%20report)  
 
-# Employee Overview Report
+### Employee Overview Report
 
 # SQL queries
