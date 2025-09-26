@@ -45,7 +45,7 @@ The dashboard provides an overview of **Year-to-Date (YTD) sales** from differen
 
 #### Full Sales Report
 
-Explore the full Sales Report in Power BI here: [Power BI reports / sales report](https://github.com/sergeierbin/portfolio/tree/89a4c06945ff5c9d53b438b7bcbba97ca3a8bcf9/Power%20BI%20reports/sales%20report)  
+Explore the full Sales Report in Power BI here: [power_bi/sales_report/sales_report.pbix](https://github.com/sergeierbin/portfolio/blob/main/power_bi/sales_report/sales_report.pbix)  
 
 ### Employee Overview Report
 
