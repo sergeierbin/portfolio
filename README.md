@@ -17,7 +17,7 @@ Data: AI-generated dataset
 #### Data Model
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_data_model.png" width="600">
+  <img src="https://github.com/sergeierbin/portfolio/blob/main/power_bi/sales_report/sales_report_data_model.png" width="600">
 </p>
 
 #### YTD Sales Dashboard
