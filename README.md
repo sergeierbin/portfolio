@@ -7,7 +7,7 @@
    - [LinkedIn Profile](https://www.linkedin.com/in/sergei-erbin/)  
    - sergei.erbin@gmail.com  
 
-# Sales Report
+# Sales Report - Microsoft Power BI
 
 ## Data Model for Sales Report  
 1. The data is generated with **OpenAI**.  
