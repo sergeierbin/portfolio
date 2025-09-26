@@ -32,13 +32,13 @@ The dashboard provides an overview of **Year-to-Date (YTD) sales** from differen
   <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_ytd_sales.png" width="600">
 </p>
 
-#### Profitability by Products  
+####  Profitability by Products Dashboard
 
-1. **Sales amounts and profitability by products**  
-2. **Sales amounts, costs, and profitability by products in a cross table**  
-3. **Product cost, price, and discount**  
-4. **Change in sales volume over time**  
-
+- Sales amounts and profitability by products  
+- Sales amounts, costs, and profitability by products in a cross table  
+- Product cost, price, and discount  
+- Change in sales volume over time  
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sergeierbin/portfolio/refs/heads/main/Power%20BI%20reports/sales%20report/sales_report_profitability_by_products.png" width="600">
 </p>
